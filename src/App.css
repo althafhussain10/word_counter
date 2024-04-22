@@ -134,9 +134,9 @@ main{
 
 .footer-created {
   position: fixed;
-  top: 0px;
+  top: 10px;
   color: #fff;
-  right: 0px;
+  right: 20px;
   background: #15202b;
   padding: 15px 20px;
 }
