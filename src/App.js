@@ -13,6 +13,10 @@ function App() {
             <Route path="joke" element={<JokePage />}></Route>
             <Route path="*" element={<PageNotFound />}></Route>
         </Routes>
+        <div class="footer-created">
+          <p>Designed and Developed by</p>
+          <h4>Mohamed Althaf Hussain N</h4>
+        </div>
       </>
   );
 }
