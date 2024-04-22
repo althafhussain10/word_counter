@@ -131,3 +131,19 @@ main{
     padding: 10px 20px;
     font-size: 20px;
 }
+
+.footer-created {
+  position: fixed;
+  bottom: 10px;
+  color: #fff;
+  right: 40px;
+  background: #15202b;
+  padding: 15px 20px;
+}
+.footer-created p {
+  font-size: 12px;
+}
+.footer-created h4 {
+  color: #FFF393;
+  font-size: 18px;
+}
